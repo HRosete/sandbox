@@ -11,7 +11,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Thermal Test" id="pYsoYJp_CpWv52h2knje">
-    <mxGraphModel dx="1861" dy="2346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4217" dy="3355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="xlbGu3oJ1bYBGluySajn-0" />
         <mxCell id="xlbGu3oJ1bYBGluySajn-1" parent="xlbGu3oJ1bYBGluySajn-0" />
@@ -217,6 +217,9 @@
               <mxPoint x="934.5" y="-170" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FZwx-NgZ3-o3uh7MsqNg-12" parent="xlbGu3oJ1bYBGluySajn-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.calloutArrow;dy=55.02;dx=62.8;notch=699.2;arrowHead=0;opacity=40;opacityGroup=1;" value="" vertex="1">
+          <mxGeometry height="669.37" width="820" x="-520" y="53.78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
